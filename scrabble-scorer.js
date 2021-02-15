@@ -52,6 +52,7 @@ let newPointStructure;
 
 function runProgram() {
    initialPrompt();
+   console.log("wazzup?");
    
 }
 
